@@ -5,6 +5,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhnillhaq&" alt="Dhnillhaq" /></p>
 
+https://github-readme-activity-graph.cyclic.app/graph?Dhnillhaq={Dhnillhaq}
+
 <!--
 **Dhnillhaq/Dhnillhaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
