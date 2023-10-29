@@ -5,4 +5,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhnillhaq&" alt="Dhnillhaq" /></p>
 
-<p><img align="center"src="https://raw.githubusercontent.com/Unicorn-Dev-Community/have-fun-with-memes/main/html_meme.jpg"/></p>
+<img src="https://raw.githubusercontent.com/Unicorn-Dev-Community/have-fun-with-memes/main/html_meme.jpg"/>
