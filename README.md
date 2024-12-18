@@ -3,6 +3,6 @@
 <p><img src="https://github-readme-stats.vercel.app/api?username=Dhnillhaq&show_icons=true&locale=en" alt="Dhnillhaq" />
 <img src="https://raw.githubusercontent.com/Unicorn-Dev-Community/have-fun-with-memes/main/html_meme.jpg"/></p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhnillhaq&" alt="Dhnillhaq" /></p>
+<p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Dhnillhaq" alt="GitHub Streak" /></a></p>
 
  
